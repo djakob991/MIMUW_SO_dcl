@@ -26,6 +26,7 @@ Dołączone do zadania przykłady składają się z trójek plików. Plik *.key 
 Jako rozwiązanie należy oddać plik dcl.asm. Program będzie kompilowany poleceniami:
 
 nasm -f elf64 -w+all -w+error -o dcl.o dcl.asm
+
 ld --fatal-warnings -o dcl dcl.o
 
 
