@@ -1,7 +1,7 @@
 # MIMUW_SO_dcl
 Projekt 1 z przedmiotu Systemy Operacyjne
 
-# Treść zadania:
+## Treść zadania:
 
 Napisać w asemblerze program symulujący działanie maszyny szyfrującej DCL. Maszyna DCL działa na zbiorze dopuszczalnych znaków zawierającym: duże litery alfabetu angielskiego, cyfry 1 do 9, dwukropek, średnik, pytajnik, znak równości, znak mniejszości, znak większości, małpę. Jedynie znaki z tego zbioru mogą się pojawić w poprawnych parametrach programu oraz w poprawnym wejściu i wyjściu programu.
 
